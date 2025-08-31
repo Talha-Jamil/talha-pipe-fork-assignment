@@ -31,3 +31,9 @@ The parent process sends **1 million integer messages** to the child process thr
 
 ## Notes 
 - The project was developed and tested on WSL and can run on pure linux environments directly
+
+## Sample Result
+
+Here’s a sample response graph generated after running the program:
+
+![Response Graph](response.png)
