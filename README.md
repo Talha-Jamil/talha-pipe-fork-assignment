@@ -34,6 +34,6 @@ The parent process sends **1 million integer messages** to the child process thr
 
 ## Sample Result
 
-Here’s a sample response graph generated after running the program:
+Here’s a sample run screenshot:
 
 ![Response Graph](response.png)
